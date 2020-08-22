@@ -1,0 +1,3 @@
+Machine Learning and Artificial Intelligence
+TensorFlow, Numpy, Pandas
+Machine Learning and Artificial Intelligence are the talks of the town as they yield the most promising careers for the future. We make the computer learn based on past experiences through the data stored or better yet, create algorithms which makes the computer learn by itself. The programming language that mostly everyone chooses? It’s Python. Why? Support for these domains with the libraries that exist already such as Pandas, Scikit-Learn, NumPy and so many more.

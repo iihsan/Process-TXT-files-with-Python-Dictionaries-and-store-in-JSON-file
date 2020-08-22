@@ -1,0 +1,3 @@
+Data Science and Data Visualization
+Matplotlib, Seaborn
+Data is money if you know how to extract relevant information which can help you take calculated risks and increase profits. You study the data you have, perform operations and extract the information required. Libraries such as Pandas, NumPy help you in extracting information.

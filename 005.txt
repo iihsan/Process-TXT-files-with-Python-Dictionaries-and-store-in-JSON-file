@@ -1,0 +1,3 @@
+Desktop GUI
+Tkinter, Kivy, PyQt5
+Python can be used to program desktop applications. It provides the Tkinter library that can be used to develop user interfaces. There are some other useful toolkits such as the wxWidgets, Kivy, PYQT that can be used to create applications on several platforms.
